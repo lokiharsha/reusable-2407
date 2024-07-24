@@ -12,7 +12,7 @@
   },
   "scripts": {
   "start": "node index.js",
-   "build": "webpack --mode production"
+   "build": "webpack --mode production",
     "test": "./node_modules/.bin/mocha ./test/test.js"
   }
 }
